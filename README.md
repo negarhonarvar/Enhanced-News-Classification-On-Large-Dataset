@@ -39,3 +39,4 @@ User interface is created using the Gradio library, which allows for easy integr
 
 ![image](https://github.com/user-attachments/assets/87b0dbaf-7319-4be3-9f22-a540e131bb6d)
 
+#### Note that the dataset used for this project is not included in the repository; In case of need for the dataset , email me under honarvar.negar.sedighian@gmail.com 
