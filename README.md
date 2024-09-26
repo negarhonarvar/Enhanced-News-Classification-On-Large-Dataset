@@ -46,7 +46,7 @@ The model is evaluated using the following methods:
 User interface is created using the Gradio library, which allows for easy integration of the model into an interactive environment, such as Google Colab, where users can input new text data and receive classification predictions from the model. Last Cell in the notebook contains the implementation.
 
 
-<img src="https://github.com/user-attachments/assets/87b0dbaf-7319-4be3-9f22-a540e131bb6d" width="400">
+<img src="https://github.com/user-attachments/assets/87b0dbaf-7319-4be3-9f22-a540e131bb6d" width="800">
 
 
 #### Note that the dataset used for this project is not included in the repository; In case of need for the dataset , email me under honarvar.negar.sedighian@gmail.com 
