@@ -1,4 +1,4 @@
-# Enhanced-News-Classification-On-Large-Dataset
+# Enhanced Farsi News Classification On Large-Dataset
 ## Introduction
 
 In this task, we have a large (2 GB) dataset where one column contains the text of news articles, and another column indicates the category or topic of the news. The goal of this project is to develop a neural network model to classify news articles into their respective categories. The dataset has been preprocessed with Tokenization and Feature Extraction.
